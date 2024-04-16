@@ -1,0 +1,40 @@
+#title {
+    text-align: center;
+}
+
+.menu-principal  {
+    background-color: #bbdfd4;
+    padding: 5px;
+    height: 200px;
+    text-align: center;
+}
+
+.menu-principal ul { 
+
+     list-style-type: none;
+     margin: 0;
+     padding: 17px;
+
+    }
+    
+     .menu-principal li {
+     display: inline;
+    }
+    
+    .menu-principal a {
+     color: white;
+    text-decoration: none;
+    padding: 10px;
+    }
+    
+    .menu-principal a:hover {
+    background-color: #555;
+    
+    }
+
+    .redes {
+        background-color: antiquewhite;
+        padding: 10px;
+        align-items: center;
+        text-align: center;
+    }
